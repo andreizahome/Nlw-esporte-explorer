@@ -19,8 +19,10 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 # Sobre o Projeto  
 
-Um projeto estruturado, com riquezas de detalhes 
+Um projeto bem estruturado com tecnologias atuais, com riquezas de detalhes
 em Css.
+
+Onde pude aprender muito nesse projeto sobre estilização.
 
 
 # Contato 
